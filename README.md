@@ -6,20 +6,20 @@ This repo contains examples of libraries I am used to use. And want to make sure
 
 ## Libraries 
 
-| type         | Name     | Description                               | Example                            | More                                          |
-| :----------- | :------- | :---------------------------------------- | :--------------------------------- | :-------------------------------------------- |
-| Library      | fuel     | http networking library                   | [link](kotlin/libraries/fuel.md)   | [link](https://github.com/kittinunf/fuel)     |
-| Library      | konf     | type-safe cascading configuration library | [link](kotlin/libraries/konf.md)   | [link](https://github.com/uchuhimo/konf)      |
-| Library      | result   | Success/Failure pattern library           | [link](kotlin/libraries/result.md) | [link](https://github.com/kittinunf/Result)   |
-| Testing Tool | mockk    | mocking library                           | [link](kotlin/testing/mockk.md)    | [link](https://mockk.io/)                     |
-| Testing Tool | h2       | in memory & local file database           | [link](kotlin/testing/h2.md)       | [link](https://h2database.com/html/main.html) |
-| Testing Tool | wiremock | API mocks over the wire                   | [link](kotlin/testing/wiremock.md) | [link](https://wiremock.org/)                 |
+| Name     | type         | Description                               | Example                            | More                                          |
+| :------- | :----------- | :---------------------------------------- | :--------------------------------- | :-------------------------------------------- |
+| fuel     | Library      | http networking library                   | [link](kotlin/libraries/fuel.md)   | [link](https://github.com/kittinunf/fuel)     |
+| konf     | Library      | type-safe cascading configuration library | [link](kotlin/libraries/konf.md)   | [link](https://github.com/uchuhimo/konf)      |
+| result   | Library      | Success/Failure pattern library           | [link](kotlin/libraries/result.md) | [link](https://github.com/kittinunf/Result)   |
+| mockk    | Testing Tool | mocking library                           | [link](kotlin/testing/mockk.md)    | [link](https://mockk.io/)                     |
+| h2       | Testing Tool | in memory & local file database           | [link](kotlin/testing/h2.md)       | [link](https://h2database.com/html/main.html) |
+| wiremock | Testing Tool | API mocks over the wire                   | [link](kotlin/testing/wiremock.md) | [link](https://wiremock.org/)                 |
 
 
 # Docker
 
 ## Compose tools
 
-| type | Name        | Description                                  | Example                       | More                                             |
-| :--- | :---------- | :------------------------------------------- | :---------------------------- | :----------------------------------------------- |
-| tool | wait-for-it | waiting for containers that are dependencies | [link](docker/wait-for-it.md) | [link](https://github.com/vishnubob/wait-for-it) |
+| Name        | type | Description                                  | Example                       | More                                             |
+| :---------- | :--- | :------------------------------------------- | :---------------------------- | :----------------------------------------------- |
+| wait-for-it | tool | waiting for containers that are dependencies | [link](docker/wait-for-it.md) | [link](https://github.com/vishnubob/wait-for-it) |
