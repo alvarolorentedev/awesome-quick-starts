@@ -1,4 +1,4 @@
-# Awesome Quick Starts
+# :sunglasses: Awesome Quick Starts
 
 This repo contains examples of libraries I am used to use. And want to make sure I dont have to find how to use them more than once.
 
